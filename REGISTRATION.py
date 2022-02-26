@@ -61,11 +61,10 @@ def login():
     password_login = input("Enter password:")
     for i in db:
         db_l.append(i.strip())
-    print(db_l)
     for j in db_l:
         n, m = j.split(",")
         if log_id == n and password_login == m:
-            print("Logged in Succesfully", n, m)
+            print("Logged in Succesfully")
             break
     else:
         print(
