@@ -41,7 +41,6 @@ def register():
             store.append(password_input)
             file = open("db.txt", "a")
             file.write(email_username + ',' + password_input + '\n')
-            print(store)
             break
     if flag == -1:
         print("""password must be in the following format:
