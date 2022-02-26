@@ -1,0 +1,13 @@
+rock@g.com,Pass!123
+rock@h.com,Pass123!
+rock.007@g.com,Pass1234
+rock@j.com,Pass12346
+smith.007@gmail.com,Smith@123
+smith@gmail.com,Smith.007
+rock.007@gmail.com,Pass!123
+rock.09@123.com,Pass@123
+rock.09@123c.in,PadKi&2
+Pass@123.com,Pass@123.com
+rock.009@gmail.com,Password@123
+Mail@123.com,PassWord123_
+
